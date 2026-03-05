@@ -21,12 +21,12 @@ docgen config init
 
 Generate docs for your project:
 ```bash
-docgen generate ./src/ --format google --lang auto
+docgen generate./src/ --format google --lang auto
 ```
 
 Scan without generating:
 ```bash
-docgen scan ./src/
+docgen scan./src/
 ```
 
 ## Supported formats
