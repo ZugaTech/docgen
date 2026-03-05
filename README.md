@@ -1,6 +1,6 @@
-# docgen-ai
+﻿# docgen-ai
 
-A command-line application that scans local project code, identifies undocumented functions and classes, and uses OpenAI's API to generate accurate docstrings. Supports Python and JS/TS.
+A command-line application that scans local project code, identifies undocumented functions and classes and uses OpenAI's API to generate accurate docstrings. Supports Python and JS/TS.
 
 ## How it works
 1. **Scan**: Parses your codebase and extracts undocumented functions/classes.
